@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P_13</string>
+    <string name="kurs">Курс обмена $:</string>
+    <string name="summa">Сумма:</string>
+    <string name="result">Результат:</string>
+    <string name="summ_dol">Сумма в долларах</string>
+    <string name="dol_rub">1 USD = RUB</string>
+    <string name="change">Конвертировать</string>
+
+</resources>
